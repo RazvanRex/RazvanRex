@@ -3,7 +3,7 @@
 
 ```>``` Ready for the future.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RazvanRex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![RazvanRex's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanRex)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 RazvanRex/RazvanRex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
