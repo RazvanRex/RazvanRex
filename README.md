@@ -1,9 +1,9 @@
 
-[RazvanRex]
+# [RazvanRex]
 
 ```>``` Ready for the future.
 
-```>``` Romanian 🇷🇴
+[![trophy](https://github-profile-trophy.vercel.app/?username=RazvanRex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 RazvanRex/RazvanRex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
