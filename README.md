@@ -1,11 +1,9 @@
 
 [RazvanRex]
 
-```>``` Don't let the past define you 🌫️
+```>``` Ready for the future.
 
 ```>``` Romanian 🇷🇴
-
-```>``` Developer 💻
 
 <!---
 RazvanRex/RazvanRex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
